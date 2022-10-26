@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300;400&display=swap');
+
+body{
+    background: #ebe4e4;
+    margin: 0;
+ }
+
+ 
+ header{
+    background: rgb(255, 255, 255);
+    padding: 10px;
+ }
+
+ header h1{
+    margin: 0;
+    color: black;
+    font-size: 30px;
+
+ }
+
+ div.post{
+    background: rgb(251, 243, 243);
+    margin-top: 20px;
+ }
+
+ div.post img{
+    width: 100%;
+ }
+
+ div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+ }
+
+ div.post .post-header div:last-child{
+    display: inline-block;
+    width: 17%;
+    padding: 1px;
+    text-align: right;
+    color: gray;
+ }
+
+ div.post h2, div post p{
+    padding: 20px;
+    margin: 0%;
+
+ }
+
+ div.contenedor{
+    width: 500px;
+    margin: auto;
+ }
+
+ p{
+    font-size: 15px;
+    margin: 20px;
+ }
+
